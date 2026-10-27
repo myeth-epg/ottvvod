@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="01" tvg-name="SG CH 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/singapore/channel-5-sg.png" group-title="SG",SG CH 5
+https://cdn.qd.je/163189/ch5
+#EXTINF:-1 tvg-id="02" tvg-name="SG CH 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/singapore/channel-8-sg.png" group-title="SG",SG CH 8
+https://cdn.qd.je/163189/ch8
+#EXTINF:-1 tvg-id="03" tvg-name="SG CH U" tvg-logo="https://myeth-epg.github.io/icons3/sg103.png" group-title="SG",SG CH U
+https://cdn.qd.je/163189/chu
 #EXTINF:-1 tvg-id="2009" tvg-name="District 13: Ultimatum" tvg-logo="https://image.tmdb.org/t/p/w500/qhadETc2y1ImTQ51all8tOd45aw.jpg" group-title="English Movies",District 13: Ultimatum
 https://archive.org/download/dstrct-13-ultmtum-2009/amts-1771773998473-gqch6.mp4
 #EXTINF:-1 tvg-id="2003" tvg-name="Bad boys II" tvg-logo="https://image.tmdb.org/t/p/w500/yCvB5fG5aEPqa1St7ihY6KEAsHD.jpg" group-title="English Movies",Bad boys II
