@@ -1,0 +1,242 @@
+#EXTM3U x-tvg-url="https://myeth-epg.github.io/public/epg.a.xml "
+#EXTINF:-1 tvg-id="pw.SG.channel.5.a" tvg-name="Channel 5" group-title="Singapore",Channel 5
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJuR1FVSTR6VU9hM1RfdXBDMnl4VTJncE5fNFZQbmFBbXxjZD03NjYwMzIzYiZjbj0xZTBkNTg0YyZjcD1hODc0ZTE4ZiZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.SG.channel.5.a" tvg-name="Channel 5 backup" group-title="Singapore",Channel 5 backup
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJhZTZXc0JRV3liUVdGYWpOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9NzY2MDMyM2ImY249MWUwZDU4NGMmY3A9YzI1MjNjMWQmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.SG.channel.8.a" tvg-name="Channel 8" group-title="Singapore",Channel 8
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJuR1FVSTR6VU9oM1RfdXBDMnl4VTJncE5fNFZQbmFBbXxjZD03NjYwMzIzYiZjbj0xZTBkNTg0YyZjcD1kNTI5Mzg3OSZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.SG.channel.8.a" tvg-name="Channel 8 backup" group-title="Singapore",Channel 8 backup
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJhZTZXc0JRV3liUVdGaGpOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9NzY2MDMyM2ImY249MWUwZDU4NGMmY3A9NTE4MDgwNDAmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.SG.channel.u.a" tvg-name="Channel U" group-title="Singapore",Channel U
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJuR1FVSTR6VTJxak50OFFaZTh2Wm5CalJCbDZQRnxjZD03NjYwMzIzYiZjbj0xZTBkNTg0YyZjcD05MGQzMDY5ZiZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.SG.channel.u.a" tvg-name="Channel U backup" group-title="Singapore",Channel U backup
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJhZTZXc0JRV3liUVd5cWpOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9NzY2MDMyM2ImY249MWUwZDU4NGMmY3A9YjBlNzJkNTgmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.SG.suria.a" tvg-name="Suria" group-title="Singapore",Suria
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamFuYXBSZXlqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPWFmZGNjYTljJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.SG.suria.a" tvg-name="Suria backup" group-title="Singapore",Suria backup
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJhZTZXc0JRV3liME5xN3ZVVHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9NzY2MDMyM2ImY249MWUwZDU4NGMmY3A9ZDNmMTk0ZWYmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.SG.vasantham.a" tvg-name="Vasantham" group-title="Singapore",Vasantham
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamF6eXBXczQ2Q3l5VjNmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9NzY2MDMyM2ImY249MWUwZDU4NGMmY3A9ODhiYTdmMDcmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.SG.vasantham.a" tvg-name="Vasantham backup" group-title="Singapore",Vasantham backup
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJhZTZXc0JRV3licVJzbFFVSUJ2Q3NNak50OFFaZTh2Wm5CalJCbDZQRnxjZD03NjYwMzIzYiZjbj0xZTBkNTg0YyZjcD1mMDY5ZmIwZiZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.SG.cna.a" tvg-name="CNA backup1" group-title="Singapore",CNA backup1
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJhZTZXc0JRV3liUVdJeWpOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9NzY2MDMyM2ImY249MWUwZDU4NGMmY3A9MzcwM2ZlZDMmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.SG.cna.a" tvg-name="CNA backup2" group-title="Singapore",CNA backup2
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoalduNFFxZkI2V2h1cEMyeXhVMmdwTl80VlBuYUFtfGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPTRhMDA1ZmQ5JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.SG.cnn.a" tvg-name="CNN" group-title="Singapore",CNN
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJuNFZyZk9WQ3NJVkNlbDZpSU1kTjBofGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPWIxNWI2Y2JiJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.SG.cnn.a" tvg-name="CNN backup" group-title="Singapore",CNN backup
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoalduNFZlZkI2V2h1cEMyeXhVMmdwTl80VlBuYUFtfGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPTQ0ZWMwMTM2JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.SG.cna.a" tvg-name="CNA" group-title="Singapore",CNA
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoalduNFEzZk9WQ3NJVkNlbDZpSU1kTjBofGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPWZiOThkZDhkJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.tv1.astro" tvg-name="TV1" group-title="马来西亚",TV1
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamFTVWQzZk9WQ3NJVkNlbDZpSU1kTjBofGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPTk3ODRhMjk4JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.tv1.astro" tvg-name="TV1 backup" group-title="马来西亚",TV1 backup
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamFTVWRxZnJRVW5rNlptdXBDMnl4VTJncE5fNFZQbmFBbXxjZD03NjYwMzIzYiZjbj0xZTBkNTg0YyZjcD05NGZmODU2ZiZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.tv2.astro" tvg-name="TV2" group-title="马来西亚",TV2
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamFTVWRyZk9WQ3NJVkNlbDZpSU1kTjBofGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPWRmOTFiMWY2JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.tv3.astro" tvg-name="TV3" group-title="马来西亚",TV3
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamFTVWQ3Zk9WQ3NJVkNlbDZpSU1kTjBofGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPTAwYzM4NzU1JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.tv3.astro" tvg-name="TV3 SD" group-title="马来西亚",TV3 SD
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamFTVWRhZk16VTZ5ak50OFFaZTh2Wm5CalJCbDZQRnxjZD03NjYwMzIzYiZjbj0xZTBkNTg0YyZjcD0zZmY4NGI1YyZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.tv3.astro" tvg-name="TV3 backup" group-title="马来西亚",TV3 backup
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamF0eXZhZjBxTGR1cEMyeXhVMmdwTl80VlBuYUFtfGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPTJmOTEzYWZiJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.tv3.astro" tvg-name="TV3 backup2" group-title="马来西亚",TV3 backup2
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamFTVWRhRDJqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPTRjZmU2ODE1JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.okey.rtm" tvg-name="TV Okey" group-title="马来西亚",TV Okey
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamFTVW4zZk9WQ3NJVkNlbDZpSU1kTjBofGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPWY1ZjQ2NDQ0JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="unifi.didiktvkpm" tvg-name="TV Didik" group-title="马来西亚",TV Didik
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJJMHFMcHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9NzY2MDMyM2ImY249MWUwZDU4NGMmY3A9YzgyZTE5ZGUmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="unifi.8tv" tvg-name="8TV" group-title="马来西亚",8TV
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamFTVUFpZk9WQ3NJVkNlbDZpSU1kTjBofGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPTQ1NTk4NzQ0JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="unifi.tv9" tvg-name="TV9" group-title="马来西亚",TV9
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamFTVUEzZk9WQ3NJVkNlbDZpSU1kTjBofGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPTY4OWMxNzIwJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.al.hijrah.astro" tvg-name="Al-Hijrah" group-title="马来西亚",Al-Hijrah
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJzOHZDZUtwUnNHak50OFFaZTh2Wm5CalJCbDZQRnxjZD03NjYwMzIzYiZjbj0xZTBkNTg0YyZjcD0yYmU5MjFlOCZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.al.hijrah.astro" tvg-name="Al-Hijrah (Back up 1)" group-title="马来西亚",Al-Hijrah (Back up 1)
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJzOHZDZUtwUnNHWldKeVFXTWFwaWZPVkNzSVZDZWw2aUlNZE4waHxjZD03NjYwMzIzYiZjbj0xZTBkNTg0YyZjcD1lM2EzNGUxZSZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="2843" tvg-name="Quran" group-title="马来西亚",Quran
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoak5zYXBSczRaV2FnekNEdXBDMnl4VTJncE5fNFZQbmFBbXxjZD03NjYwMzIzYiZjbj0xZTBkNTg0YyZjcD03MDFhYWYwZiZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="2844" tvg-name="Sunnah" group-title="马来西亚",Sunnah
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoak5uYVZSSXl2c2ZNdlVTdWpOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9NzY2MDMyM2ImY249MWUwZDU4NGMmY3A9ZWY2NWFlZTgmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.bernama.astro" tvg-name="Bernama" group-title="马来西亚",Bernama
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJKZXBSSXlWVVR1cEMyeXhVMmdwTl80VlBuYUFtfGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPTIwN2NkYTU5JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.astro.awani.astro" tvg-name="Awani" group-title="马来西亚",Awani
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJzTlFVSWdqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPWM2NjM0OWZlJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.astro.ceria.astro" tvg-name="Ceria" group-title="马来西亚",Ceria
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJuZXBSZXlqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPWE3NWQ4OTNkJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.astro.oasis.astro" tvg-name="Oasis" group-title="马来西亚",Oasis
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJmeXBXZWxqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPWQ5OWQ3NWY0JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="charm.astrogo.boo" tvg-name="Boo" group-title="马来西亚",Boo
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJKdVY3Zk9WQ3NJVkNlbDZpSU1kTjBofGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPTMxYjkyOGY5JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.astro.citra.astro" tvg-name="Citra" group-title="马来西亚",Citra
+
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJzdFFXZUJwUlQyak50OFFaZTh2Wm5CalJCbDZQRnxjZD03NjYwMzIzYiZjbj0xZTBkNTg0YyZjcD00N2IwMTkzMyZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.astro.citra.astro" tvg-name="Citra backup" group-title="马来西亚",Citra backup
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJzdFFXZUJwUlQyak50OFFaZTh2Wm5CalJCbDZQRnxjZD03NjYwMzIzYiZjbj0xZTBkNTg0YyZjcD00N2IwMTkzMyZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.astro.prima.astro" tvg-name="Prima" group-title="马来西亚",Prima
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamF0N3ZVYXlqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPWMxMDE1NGJkJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.astro.prima.astro" tvg-name="Prima backup" group-title="马来西亚",Prima backup
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamF0N3ZVYXlaV0p5UVdNYXBpZk9WQ3NJVkNlbDZpSU1kTjBofGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPTAwN2VkNzJhJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.astro.prima.astro" tvg-name="Prima backup_1" group-title="马来西亚",Prima backup_1
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamF0eXZhZl9wUmVNUTNmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9NzY2MDMyM2ImY249MWUwZDU4NGMmY3A9YzBiZGRjNjcmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.astro.ria.astro" tvg-name="Ria" group-title="马来西亚",Ria
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamFKZ1EzQk9qTnQ4UVplOHZabkJqUkJsNlBGfGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPTMwMGYyZWUzJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.astro.ria.astro" tvg-name="Ria-3" group-title="马来西亚",Ria-3
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamFKZ1FxZnJRVW5rNlptdXBDMnl4VTJncE5fNFZQbmFBbXxjZD03NjYwMzIzYiZjbj0xZTBkNTg0YyZjcD03NjdjZDY1MiZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.astro.ria.astro" tvg-name="Ria backup_1" group-title="马来西亚",Ria backup_1
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamF0eXZhZjN2VVR1cEMyeXhVMmdwTl80VlBuYUFtfGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPTEyY2VmNDdmJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+
+#EXTINF:-1 tvg-id="2012" tvg-name="Awesome TV" group-title="马来西亚",Awesome TV
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJTbFFVSWNRWl91cEMyeXhVMmdwTl80VlBuYUFtfGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPTY2OWEwN2QyJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.astro.aura.astro" tvg-name="Aura" group-title="马来西亚",Aura
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJzYXBSVHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9NzY2MDMyM2ImY249MWUwZDU4NGMmY3A9OTE3YWRhNDImY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="unifi.sensasi" tvg-name="Sensasi" group-title="马来西亚",Sensasi
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamFuZVZjbnlwVzl1cEMyeXhVMmdwTl80VlBuYUFtfGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPWE3MjgzYmYxJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="unifi.siar" tvg-name="Siar" group-title="马来西亚",Siar
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamFuZ1FaMXVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9NzY2MDMyM2ImY249MWUwZDU4NGMmY3A9YjI2ZmVjYmUmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.astro.rania.astro" tvg-name="Rania" group-title="马来西亚",Rania
+
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamFKeVZSZXlqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPTAxOWM3OTczJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.SG.wion.a" tvg-name="WION" group-title="马来西亚",WION
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamE2Z1ZXaHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9NzY2MDMyM2ImY249MWUwZDU4NGMmY3A9ZjRhMWM3ZGYmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="2775" tvg-name="Astro MTV" group-title="马来西亚",Astro MTV
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJzbDY1SnVQcVNVak50OFFaZTh2Wm5CalJCbDZQRnxjZD03NjYwMzIzYiZjbj0xZTBkNTg0YyZjcD1mMjg2MjYxZSZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.love.nature.astro" tvg-name="Love Nature" group-title="马来西亚",Love Nature
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJJeTZDNmVWTjZnVkNfdXBDMnl4VTJncE5fNFZQbmFBbXxjZD03NjYwMzIzYiZjbj0xZTBkNTg0YyZjcD0xZDI1ZWUzNyZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.SG.animal.planet.a" tvg-name="Animal_Planet" group-title="马来西亚",Animal_Planet
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJzNHZVYXlWc3Q4UVVJZTZpZk9WQ3NJVkNlbDZpSU1kTjBofGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPTc1OTE4MjI3JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="unifi.hbofamily" tvg-name="HBO Family" group-title="马来西亚",HBO Family
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJ5clZXenlWVWU4eDNmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9NzY2MDMyM2ImY249MWUwZDU4NGMmY3A9NTA2YzM2MDQmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.showcase.movies.astro" tvg-name="Showcase" group-title="马来西亚",Showcase
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamFuR1ZONkxRWm5lak50OFFaZTh2Wm5CalJCbDZQRnxjZD03NjYwMzIzYiZjbj0xZTBkNTg0YyZjcD1iMzNjYmMyYyZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="2838" tvg-name="RTM Asean" group-title="马来西亚",RTM Asean
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamFKQlZVc2x6VXM0ak50OFFaZTh2Wm5CalJCbDZQRnxjZD03NjYwMzIzYiZjbj0xZTBkNTg0YyZjcD02YTU4NDA4MCZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=a8b17556abe1c9351411327037a576b4
+
+#EXTINF:-1 tvg-id="pw.MY.hgtv.astro" tvg-name="HGTV" group-title="马来西亚",HGTV
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJ5NXFzUXVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9NzY2MDMyM2ImY249MWUwZDU4NGMmY3A9YWFhMjhkYzQmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.tlc.astro" tvg-name="TLC" group-title="马来西亚",TLC
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamFTOFE3Zk9WQ3NJVkNlbDZpSU1kTjBofGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPWQyNDljNmViJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.astro.fam.time.astro" tvg-name="Astro FAM Time" group-title="马来西亚",Astro FAM Time
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJ6dVZXUzR6WlNOVk5Ka2pOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9NzY2MDMyM2ImY249MWUwZDU4NGMmY3A9MWNkZmRhYjYmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.axn.astro" tvg-name="Axn HD" group-title="马来西亚",Axn HD
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJzaFZyZk9WQ3NJVkNlbDZpSU1kTjBofGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPTc5NDg1OTk1JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="unifi.hbo" tvg-name="HBO HD" group-title="马来西亚",HBO HD
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJ5clY3Zk9WQ3NJVkNlbDZpSU1kTjBofGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPTgyOTRmNGYzJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="starhub.hbosignature" tvg-name="HBO Signature" group-title="马来西亚",HBO Signature
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJ5clZObmd6V0l5NjVxN3ozZk9WQ3NJVkNlbDZpSU1kTjBofGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPWRhZmVkMDJlJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="2782" tvg-name="HBO Hits" group-title="马来西亚",HBO Hits
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJ5clZXeWc2NW5HemlmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9NzY2MDMyM2ImY249MWUwZDU4NGMmY3A9YjQ1NzY5MDcmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="unifi.dreamworks" tvg-name="Dreamworks" group-title="马来西亚",Dreamworks
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJTN3pVc002V2Y3dk5kdXBDMnl4VTJncE5fNFZQbmFBbXxjZD03NjYwMzIzYiZjbj0xZTBkNTg0YyZjcD0yZGU1NWMzYiZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="unifi.nickelodeon" tvg-name="Nickelodeon" group-title="马来西亚",Nickelodeon
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJJZ1FXTWVWQ2Y5elVmNGpOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9NzY2MDMyM2ImY249MWUwZDU4NGMmY3A9NDZmZjBkNzgmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="unifi.nickjr" tvg-name="Nick Jr" group-title="马来西亚",Nick Jr
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJJZ1FXTUtwcmZPVkNzSVZDZWw2aUlNZE4waHxjZD03NjYwMzIzYiZjbj0xZTBkNTg0YyZjcD0wN2NlZDc0MyZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=a8b17556abe1c9351411327037a576b4
+
+#EXTINF:-1 tvg-id="unifi.cartoonnetwork" tvg-name="Cartoon Network" group-title="马来西亚",Cartoon Network
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJuNGpOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9NzY2MDMyM2ImY249MWUwZDU4NGMmY3A9M2ZjMzVjNmUmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="unifi.asianfoodnetwork" tvg-name="Asia Food Network" group-title="马来西亚",Asia Food Network
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJzUlE3Zk9WQ3NJVkNlbDZpSU1kTjBofGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPTUyZmZmZTU4JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.SG.animal.planet.a" tvg-name="Animal Planet (Eng)" group-title="马来西亚",Animal Planet (Eng)
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJzNHZVYXlWc3Q4UVVJZTZpZk9WQ3NJVkNlbDZpSU1kTjBofGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPTc1OTE4MjI3JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.love.nature.astro" tvg-name="Love Nature" group-title="马来西亚",Love Nature
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJJeTZDNmVWTjZnVkNfdXBDMnl4VTJncE5fNFZQbmFBbXxjZD03NjYwMzIzYiZjbj0xZTBkNTg0YyZjcD0xZDI1ZWUzNyZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.tvn.astro" tvg-name="TvN" group-title="马来西亚",TvN
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamFTVVByZk9WQ3NJVkNlbDZpSU1kTjBofGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPWFiM2NhMTc0JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.SG.kbs.world.b" tvg-name="KBS World" group-title="马来西亚",KBS World
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJNaTA3Zk9WQ3NJVkNlbDZpSU1kTjBofGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPTE2ZDYxOTE3JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.astro.badminton.astro" tvg-name="Astro Badminton" group-title="马来西亚",Astro Badminton
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoalc2dVpXSnl6Q2FnVmNTdVZMVHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9NzY2MDMyM2ImY249MWUwZDU4NGMmY3A9NjE4MTEwZTAmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="2340" tvg-name="Sony HD" group-title="马来西亚",Sony HD
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamFuZTZUZjR6M2ZPVkNzSVZDZWw2aUlNZE4waHxjZD03NjYwMzIzYiZjbj0xZTBkNTg0YyZjcD04ZjliNWIwOCZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.tvn.movies.astro" tvg-name="tvN Movie" group-title="马来西亚",tvN Movie
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamFTV1ZSYXU2UmVlak50OFFaZTh2Wm5CalJCbDZQRnxjZD03NjYwMzIzYiZjbj0xZTBkNTg0YyZjcD0wYTBhOWEwNiZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.k.plus" tvg-name="Astrol Kplus" group-title="马来西亚",Astrol Kplus
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJNT1Y1cWxqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPWJjNTQ4ZmY4JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.SG.one.malay.starhubtv" tvg-name="One" group-title="马来西亚",One
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJmNHozZk9WQ3NJVkNlbDZpSU1kTjBofGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPTBiOWRmODAzJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="charm.astrogo.aec" tvg-name="AEC" group-title="马来西亚",AEC
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJzc183Zk9WQ3NJVkNlbDZpSU1kTjBofGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPTNkNWU1YWI1JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="charm.astrogo.aod" tvg-name="AOD" group-title="马来西亚",AOD
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJzdXpDeTlqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPWUyMzdmYzNmJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="charm.astrogo.tvbj" tvg-name="TVB Jade" group-title="马来西亚",TVB Jade
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamE2ODZpZk9WQ3NJVkNlbDZpSU1kTjBofGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPWNiMGVhZTIxJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="charm.astrogo.huaheedai" tvg-name="欢喜台 HD(Hua Hee Tai)" group-title="马来西亚",欢喜台 HD(Hua Hee Tai)
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJ5YVFVeWV6M2ZPVkNzSVZDZWw2aUlNZE4waHxjZD03NjYwMzIzYiZjbj0xZTBkNTg0YyZjcD01YzE1NWYwMSZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="1623" tvg-name="Astro QJ" group-title="马来西亚",Astro QJ
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamFzYVFVSUt2VVR1cEMyeXhVMmdwTl80VlBuYUFtfGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPTk4ZmE4MmEzJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="charm.astrogo.tvbj" tvg-name="TVB Jade" group-title="马来西亚",TVB Jade
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamFTV1FSZ3l6QzB1cEMyeXhVMmdwTl80VlBuYUFtfGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPWNhYjA3YzU4JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="charm.astrogo.iqiyi" tvg-name="爱奇艺 iQiyi" group-title="马来西亚",爱奇艺 iQiyi
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamFzZ3hVOXVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9NzY2MDMyM2ImY249MWUwZDU4NGMmY3A9NTJiNzNiOGMmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="charm.astrogo.tvbxinghe" tvg-name="TVB 星河台  Xing He" group-title="马来西亚",TVB 星河台  Xing He
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamF5Z1ZSeWVqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPTgwNzkwZjUwJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.discovery.asia.astro" tvg-name="Discovery Asia" group-title="马来西亚",Discovery Asia
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJTZ3BXbnU2UnE3eFVzbHZVVHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9NzY2MDMyM2ImY249MWUwZDU4NGMmY3A9M2VjYjE2YzImY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.SG.crime.investigation.b" tvg-name="Crime + Investigation HD" group-title="马来西亚",Crime + Investigation HD
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJTTVFaRnVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9NzY2MDMyM2ImY249MWUwZDU4NGMmY3A9ZDM0NzM3NGUmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.astro.badminton.2.astro" tvg-name="Astro Badminton 2" group-title="马来西亚",Astro Badminton 2
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoalc2dVpXSnl6Q2FnVmNTdVZMMXVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9NzY2MDMyM2ImY249MWUwZDU4NGMmY3A9MGI5MjZmMTQmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="charm.astrogo.tvbsasia" tvg-name="TVBS Asia" group-title="马来西亚",TVBS Asia
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamFTV1FSc2x2VVR1cEMyeXhVMmdwTl80VlBuYUFtfGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPTllNTQ4ODM5JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="charm.astrogo.tvbenews" tvg-name="TVB Entertainment" group-title="马来西亚",TVB Entertainment
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamFTV1FScTQ2Q3E3NkNzZ1ZSYWVWY191cEMyeXhVMmdwTl80VlBuYUFtfGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPWI3MGE0NWMzJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="charm.astrogo.tvbclassic" tvg-name="TVB Classic" group-title="马来西亚",TVB Classic
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamFTV1FSbjhRWm5sdlVkdXBDMnl4VTJncE5fNFZQbmFBbXxjZD03NjYwMzIzYiZjbj0xZTBkNTg0YyZjcD0wYWIxNWM0MSZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="unifi.celestialclassicmovies" tvg-name="Celestial Classic" group-title="马来西亚",Celestial Classic
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJuZVZDcWw2Q2V5VkUxdXBDMnl4VTJncE5fNFZQbmFBbXxjZD03NjYwMzIzYiZjbj0xZTBkNTg0YyZjcD01ZTA5YmI0NiZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="unifi.celestialmovies" tvg-name="Celestial Movies HD" group-title="马来西亚",Celestial Movies HD
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJuZVZDcWw2Q2V5VmlmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9NzY2MDMyM2ImY249MWUwZDU4NGMmY3A9ZTgxYTZjZGQmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="rockaction.unifi.my" tvg-name="Rock Actions" group-title="马来西亚",Rock Actions
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamFKdVFXTXlRTlNnVldodXBDMnl4VTJncE5fNFZQbmFBbXxjZD03NjYwMzIzYiZjbj0xZTBkNTg0YyZjcD1kYWFjZDAxOSZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="unifi.rockentertainment" tvg-name="Rock Entertainment" group-title="马来西亚",Rock Entertainment
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamFKdVFXTWVWY1NlcGNTeXZVaHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9NzY2MDMyM2ImY249MWUwZDU4NGMmY3A9NDRjNmE4MzYmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id=""pw.MY.zee.tamil.astro" tvg-name="Z Cinema" group-title="马来西亚",Z Cinema
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJKdVZDMklWV0llak50OFFaZTh2Wm5CalJCbDZQRnxjZD03NjYwMzIzYiZjbj0xZTBkNTg0YyZjcD05NDZiYTdlYSZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.sun.music.astro" tvg-name="Astro Sunmusic" group-title="马来西亚",Astro Sunmusic
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamFuYVZSYWFwV2VMak50OFFaZTh2Wm5CalJCbDZQRnxjZD03NjYwMzIzYiZjbj0xZTBkNTg0YyZjcD01MmE0M2Q5ZSZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.abo.movies.thangathirai.astro" tvg-name="Thangathirai" group-title="马来西亚",Thangathirai
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamFTR1FVSWNRWlNHdlpKeXYzZk9WQ3NJVkNlbDZpSU1kTjBofGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPTkzZGYzNGViJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.astro.vinmeen.astro" tvg-name="Vinmeen" group-title="马来西亚",Vinmeen
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamF6Z1ZSYWV6VWh1cEMyeXhVMmdwTl80VlBuYUFtfGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPWQyMGI5OTA1JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="2816" tvg-name="Vellithirai" group-title="马来西亚",Vellithirai
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamF6ZVZDMmc2Q3lncFJzZ2pOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9NzY2MDMyM2ImY249MWUwZDU4NGMmY3A9MzRmZWU3MTUmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="2890" tvg-name="Eurosport" group-title="马来西亚",Eurosport
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJxYXBSZmxwQ2Y3NmlmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9NzY2MDMyM2ImY249MWUwZDU4NGMmY3A9NDVkNDJhMzkmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.astro.arena.astro" tvg-name="Arena" group-title="马来西亚",Arena
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJzN3pVSXlqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPWVmNDhhYzYxJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.astro.arena.2.astro" tvg-name="Stadium Astro" group-title="马来西亚",Stadium Astro
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJzN3pVSXlkcmZPVkNzSVZDZWw2aUlNZE4waHxjZD03NjYwMzIzYiZjbj0xZTBkNTg0YyZjcD00NjZlNmE4NSZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.arena.bola" tvg-name="Arena Bola 1" group-title="马来西亚",Arena Bola 1
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJKdVZDc3lwUnE0UVBUdXBDMnl4VTJncE5fNFZQbmFBbXxjZD03NjYwMzIzYiZjbj0xZTBkNTg0YyZjcD1mNmQyMmM3NCZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.arena.bola.2" tvg-name="Arena Bola 2" group-title="马来西亚",Arena Bola 2
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJKdVZDc3lwUnE0UVAxdXBDMnl4VTJncE5fNFZQbmFBbXxjZD03NjYwMzIzYiZjbj0xZTBkNTg0YyZjcD0yYjQ2YzQ5ZSZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.abo.movies.thangathirai.astro" tvg-name="Astro Thangathirai" group-title="马来西亚",Astro Thangathirai
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJzbDY1SnVaVzJ1VmlmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9NzY2MDMyM2ImY249MWUwZDU4NGMmY3A9MTVkYzc0M2UmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.al.jazeera.english.astro" tvg-name="Al_Jazeera" group-title="马来西亚",Al_Jazeera
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJzOHZSc296VXE3UTNmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9NzY2MDMyM2ImY249MWUwZDU4NGMmY3A9ZTliOTMyMGQmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.cnn.astro" tvg-name="CNN" group-title="马来西亚",CNN
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJuNFZyZk9WQ3NJVkNlbDZpSU1kTjBofGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPWIxNWI2Y2JiJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.cnn.astro" tvg-name="CNN backup" group-title="马来西亚",CNN backup
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoalduNFZlZkI2V2h1cEMyeXhVMmdwTl80VlBuYUFtfGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPTQ0ZWMwMTM2JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.bbc.news.astro" tvg-name="BBC World News" group-title="马来西亚",BBC World News
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJKclFXSWU2TmR1cEMyeXhVMmdwTl80VlBuYUFtfGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPTQ2NWUyYjZlJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.cnbc.asia.astro" tvg-name="CNBC" group-title="马来西亚",CNBC
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJuNFFSZHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9NzY2MDMyM2ImY249MWUwZDU4NGMmY3A9MzBiZjg5YzUmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.bloomberg.tv.astro" tvg-name="Bloomberg TV" group-title="马来西亚",Bloomberg TV
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJKOFZXZk1RUnE3ejdmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9NzY2MDMyM2ImY249MWUwZDU4NGMmY3A9ZTUxMjdmYjgmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.cna.astro" tvg-name="CNA" group-title="马来西亚",CNA
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoalduNFEzZk9WQ3NJVkNlbDZpSU1kTjBofGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPWZiOThkZDhkJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.sukan.plus" tvg-name="RTM Sukan+" group-title="马来西亚",RTM Sukan+
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamFKQlZabk9WTkpCak50OFFaZTh2Wm5CalJCbDZQRnxjZD03NjYwMzIzYiZjbj0xZTBkNTg0YyZjcD1lYWFlNzdjMCZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="unifi.dw"" tvg-name="DW" group-title="马来西亚",DW
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJTTmpOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9NzY2MDMyM2ImY249MWUwZDU4NGMmY3A9ZDg4MzZhYTUmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.MY.france24.astro" tvg-name="France 24" group-title="马来西亚",France 24
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJ6N1FVSUx6UDFCak50OFFaZTh2Wm5CalJCbDZQRnxjZD03NjYwMzIzYiZjbj0xZTBkNTg0YyZjcD0wN2YwM2M4OCZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="2891" tvg-name="Skynews" group-title="马来西亚",Skynews
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamFua3hVSWU2TmR1cEMyeXhVMmdwTl80VlBuYUFtfGNkPTc2NjAzMjNiJmNuPTFlMGQ1ODRjJmNwPTMzNGU1N2IzJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="pw.SG.nhk.world.premium.a" tvg-name="NHK Premium" group-title="马来西亚",NHK Premium
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoakJJMTNOdDd6VWFnNlVCdXBDMnl4VTJncE5fNFZQbmFBbXxjZD03NjYwMzIzYiZjbj0xZTBkNTg0YyZjcD02ODJjODY1YSZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=a8b17556abe1c9351411327037a576b4
+#EXTINF:-1 tvg-id="2930" tvg-name="Siar backup" group-title="马来西亚",Siar backup
+https://live.catvod.com/playlist.m3u?id=L2xyL2RMUTJkRTFoamFuZ1FaMXVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9NzY2MDMyM2ImY249MWUwZDU4NGMmY3A9YjI2ZmVjYmUmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=a8b17556abe1c9351411327037a576b4
